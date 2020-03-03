@@ -1,0 +1,10 @@
+export const List = 'List';
+export const saveTask = 'saveTask';
+export const Toggle_Form = 'Toggle_Form';
+export const Close_Form = 'Close_Form';
+export const Open_Form = 'Open_Form';
+export const Update_status_task = 'Update_status_task';
+export const Delete_Task = 'Delete_Task';
+export const Edit_Item ='Edit_Item';
+export const Filter_Table='Filter_Table';
+export const Search ='Search';
